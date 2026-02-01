@@ -126,5 +126,3 @@ summary = {
 summary_df = pd.DataFrame([summary])
 summary_df.to_csv(OUT_DIR / "cleaning_summary.csv", index=False)
 
-print("Cleaned dataset saved to:", OUT_CLEAN_PATH)
-print("Cleaning summary saved to:", OUT_DIR / "cleaning_summary.csv")
