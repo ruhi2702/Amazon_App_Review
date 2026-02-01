@@ -1,0 +1,11 @@
+Git Command
+
+1. git init --> To Initialize
+2. git remote add origin hhttps://github.com/ruhi2702/Amazon_App_Review.git   --> To Link new Repository to local folder
+3. git status --> TO check status
+4. git add . --> To add all file change in single command
+5. git add (file name) --> To add single file changes
+6. git commit -m "Initial commit" --> To commit the changes
+7. git push -u origin main --> To push chnages
+
+
